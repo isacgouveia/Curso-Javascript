@@ -2,5 +2,7 @@
 
 |Keyword|const|Let|Var|
 |:---|:---:|:---:|:---:|
-|A|1|Inteiro|a|
-|B|2||a|
+|Global Scope|NO|NO|YES|
+|function Scope|YES|YES|YES|
+|block Scope|YES|YES|NO|
+|can be reassigned|NO|YES|YES|
