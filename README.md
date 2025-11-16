@@ -1,6 +1,6 @@
 # Curso-Javascript
 
-| Variável | Valor | Descrição |
-| :------- | :----: | ----------: |
-| A        | 1      | Inteiro     |
-| B        | 2      |             |
+|Keyword|const|Let|Var|
+|:---|:---:|---:|---:|
+|A|1|Inteiro|a|
+|B|2||a|
