@@ -195,9 +195,9 @@ Variável na programação é um **espaço reservado na memória** RAM (random A
 
 <a id="page3"></a>
 
-## <a id="page4">Tipos de dados</a>
+## Tipos de dados
 
-### **String**
+### <a id="page4">**String**</a>
 ```js
     let username = "Isac"
     console.log(username) = Isac
@@ -238,7 +238,7 @@ Recurso para manipular string de forma mais eficiente. (acento agúdo)
     console.log(`Seja bem vindo ${name} ${surname}`)
 ```
 
-### **Number**
+### <a id="page5">**Number**</a>
 ```js
     // Number
     console.log(5)
@@ -257,7 +257,7 @@ Recurso para manipular string de forma mais eficiente. (acento agúdo)
 
 ```
 
-### **Boolean**
+### <a id="page6">**Boolean**</a>
 ```js
     console.log(true)
     console.log(false)
@@ -267,7 +267,7 @@ Recurso para manipular string de forma mais eficiente. (acento agúdo)
     console.log(typeof isLoading) = boolean
 ```
 
-### **undefined & null**
+### <a id="page7">**undefined & null**</a>
 ```js
     let emptiness
     console.log("O valor é:", emptiness) = O valor é UNDEFINED
@@ -277,8 +277,8 @@ Recurso para manipular string de forma mais eficiente. (acento agúdo)
 
 ```
 
-### **Conversão e coerção de Tipos**
-#### Conversão de tipos (type casting ou type conversion):
+### <a id="page8">**Conversão e coerção de Tipos**</a>
+#### <a id="page9">Conversão de tipos (type casting ou type conversion):</a>
 Ocorre quando você explicitamente transforma um valor de um tipo para outro. Isso é feito de forma consciente, usando funções ou métodos especificos para realizar a conversão.
 
 ```js
@@ -296,7 +296,7 @@ Ocorre quando você explicitamente transforma um valor de um tipo para outro. Is
 
 ```
 
-#### Coerção de tipos:
+#### <a id="page10">Coerção de tipos:</a>
 Acontece de forma automática (implicitamente). O javaScript tenta automaticamente converter um dos valores para um tipo compatível antes de realizar a operação.
 
 ```js
@@ -304,7 +304,7 @@ Acontece de forma automática (implicitamente). O javaScript tenta automaticamen
 
 ```
 
-<a id="page4"></a>
+<a id="page11"></a>
 
 ## Escopo
 
@@ -320,7 +320,7 @@ O escopo define o **contexto** no qual uma variável pode ser **referenciada e m
 
 *Exemplo: A cidade São Paulo (bloco/local) pertence ao contexto Brasil (global).*
 
-<a id ="page5"></a>
+<a id ="page12"></a>
 
 ## Hoisting
 
