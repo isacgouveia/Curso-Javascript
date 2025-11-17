@@ -4,13 +4,15 @@
 - [O que é javascript?](#page1)
 - [Variáveis](#page2)
 - [Tipos de dados](#page3)
-    - [string]
-    - [number]
-    - [boolean]
-    - [undefined null]
-    - [Conversão e Coerção de Tipos]
-- [Escopo](#page4)
-- [Hoisting](#page5)
+    - [string](#page4)
+    - [number](#page5)
+    - [boolean](#page6)
+    - [undefined null](#page7)
+    - [Conversão e Coerção de Tipos](#page8)
+        - [Conversão](#page9)
+        - [Coerção](#page10)
+- [Escopo](#page11)
+- [Hoisting](#page12)
 
 <a id="page1"></a>
 
@@ -193,7 +195,7 @@ Variável na programação é um **espaço reservado na memória** RAM (random A
 
 <a id="page3"></a>
 
-## Tipos de dados
+## <a id="page4">Tipos de dados</a>
 
 ### **String**
 ```js
@@ -299,6 +301,7 @@ Acontece de forma automática (implicitamente). O javaScript tenta automaticamen
 
 ```js
     console.log("10" + 5) = 105 (converteu o 5 para texto)
+
 ```
 
 <a id="page4"></a>
