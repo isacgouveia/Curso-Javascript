@@ -33,3 +33,16 @@ Neste módulo retrato os seguintes temas:
 - Operador Lógico
 - Maior Menor ou Igual
 - Operadores de lógicos
+
+3. <a href="3. Condocionais e controle de fluxo.md">Condocionais e controle de fluxo</a>
+
+Neste módulo retrato os seguintes temas:
+- Estrutura de Condição
+- Operador Condicional ternário
+- Condicionais
+    - IF
+    - If else
+    - Else If
+    - Switch Case
+- Tratamento de Exceções
+    - Try / Chatch / Finally
