@@ -46,3 +46,5 @@ Neste módulo retrato os seguintes temas:
     - Switch Case
 - Tratamento de Exceções
     - Try / Chatch / Finally
+ 
+### Exercícios referente ao tema 3. Condocionais e controle de fluxo <a href="/Exercicies/01. IF + Switch + Try Catch.md">Clique Aqui</a>
